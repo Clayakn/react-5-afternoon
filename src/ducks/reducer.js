@@ -172,7 +172,7 @@ export function updateAddressTwo(address) {
     }
 }
 
-export function updateAddressTree(address) {
+export function updateAddressThree(address) {
     return {
         type: UPDATE_ADDRESS_3,
         payload: address
